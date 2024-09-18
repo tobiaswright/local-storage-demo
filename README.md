@@ -1,4 +1,11 @@
-# LocalStorageDemo
+# Local Storage Demo
+
+This is a demo to use local storage services. The intent is to measure ease of use and a starting point for future reuse.
+
+Here are the current candidates:
+- Tinybase
+- Localforge
+- IndexedDB
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.2.
 
